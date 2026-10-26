@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>WatchLog — filmstrip W</title>
+  <rect width="256" height="256" rx="57" fill="#365444"/>
+  <path d="M57 74 87 177 128 112 169 177 199 74" fill="none" stroke="#edf2e8" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#365444">
+    <rect x="55" y="80" width="7" height="7" rx="1.7" transform="rotate(-16 58.5 83.5)"/>
+    <rect x="60" y="97" width="7" height="7" rx="1.7" transform="rotate(-16 63.5 100.5)"/>
+    <rect x="65" y="114" width="7" height="7" rx="1.7" transform="rotate(-16 68.5 117.5)"/>
+    <rect x="70" y="131" width="7" height="7" rx="1.7" transform="rotate(-16 73.5 134.5)"/>
+    <rect x="75" y="148" width="7" height="7" rx="1.7" transform="rotate(-16 78.5 151.5)"/>
+    <rect x="194" y="80" width="7" height="7" rx="1.7" transform="rotate(16 197.5 83.5)"/>
+    <rect x="189" y="97" width="7" height="7" rx="1.7" transform="rotate(16 192.5 100.5)"/>
+    <rect x="184" y="114" width="7" height="7" rx="1.7" transform="rotate(16 187.5 117.5)"/>
+    <rect x="179" y="131" width="7" height="7" rx="1.7" transform="rotate(16 182.5 134.5)"/>
+    <rect x="174" y="148" width="7" height="7" rx="1.7" transform="rotate(16 177.5 151.5)"/>
+  </g>
+</svg>
