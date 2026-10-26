@@ -147,3 +147,22 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# WatchLog private data and desktop build outputs
+dist-electron/
+release/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.enc
+*.pem
+*.p12
+*.pfx
+credentials*.json
+WatchLog-*.json
+WatchLog-*.csv
+test-results/
+playwright-report/
+build/icon.png
+build/icon.ico
